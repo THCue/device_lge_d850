@@ -1,6 +1,6 @@
 $(call inherit-product, device/lge/d850/full_d850.mk)
-$(call inherit-product, vendor/slim/config/common_full_phone.mk)
-$(call inherit-product, vendor/slim/config/nfc_enhanced.mk)
+$(call inherit-product, vendor/du/config/common_full_phone.mk)
+$(call inherit-product, vendor/du/config/nfc_enhanced.mk)
 
 # Boot animation
 TARGET_SCREEN_WIDTH := 1440
