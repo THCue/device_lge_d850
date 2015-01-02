@@ -1,6 +1,6 @@
 [
   {
-    "repository":  "SlimRoms/device_lge_g3-common",
+    "repository":  "du/device_lge_g3-common",
     "target_path": "device/lge/g3-common",
     "branch":      "lp5.0"
   }
