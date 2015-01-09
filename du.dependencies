@@ -1,27 +1,32 @@
 [
   {
-    "repository":  "DirtyUnicorns/proprietary_vendor_lge",
+    "repository":  "THCue/proprietary_vendor_lge",
     "target_path": "vendor/lge",
     "branch":      "lollipop-caf"
   }
   {
-    "repository":  "DirtyUnicorns/android_device_lge_g3-common",
+    "repository":  "THCue/android_device_lge_g3-common",
     "target_path": "device/lge/g3-common",
     "branch":      "lollipop-caf"
   }
   {
-    "repository":  "DirtyUnicorns/android_kernel_lge_g3",
+    "repository":  "THCue/android_kernel_lge_g3",
     "target_path": "kernel/lge/g3",
     "branch":      "lollipop-caf"
   }
   {
-    "repository":  "DirtyUnicorns/device_lge_d850",
+    "repository":  "THCue/device_lge_d850",
     "target_path": "device/lge/d850",
     "branch":      "lollipop-caf"
   }
   {
-    "repository":  "DirtyUnicorns/android_device_qcom-common",
+    "repository":  "THCue/android_device_qcom-common",
     "target_path": "device/qcom-common",
+    "branch":      "lollipop-caf"
+  }
+  {
+    "repository":  "THCue/hardware_qcom_media-caf",
+    "target_path": "hardware/qcom/media-caf/msm8974",
     "branch":      "lollipop-caf"
   }
 ]
