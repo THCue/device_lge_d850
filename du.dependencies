@@ -1,10 +1,5 @@
 [
   {
-    "repository":  "THCue/proprietary_vendor_lge",
-    "target_path": "vendor/lge",
-    "branch":      "lollipop-caf"
-  }
-  {
     "repository":  "THCue/android_device_lge_g3-common",
     "target_path": "device/lge/g3-common",
     "branch":      "lollipop-caf"
@@ -28,5 +23,15 @@
     "repository":  "THCue/hardware_qcom_media-caf",
     "target_path": "hardware/qcom/media-caf/msm8974",
     "branch":      "lollipop-caf"
+  }
+  {
+    "repository": "THCue/hardware_qcom_audio-caf",
+    "target_path": "hardware/qcom/audio-caf/msm8974",
+    "branch": "lollipop-caf"
+  }
+  {
+    "repository": "THCue/hardware_qcom_display-caf",
+    "target_path": "hardware/qcom/display-caf/msm8974",
+    "branch": "lollipop-caf"
   }
 ]
