@@ -18,10 +18,5 @@
     "repository":  "DirtyUnicorns/android_device_qcom-common",
     "target_path": "device/qcom/common",
     "branch":      "lollipop-caf"
-  },
-  {
-    "repository":  "DirtyUnicorns/proprietary_vendor_lge",
-    "target_path": "vendor/lge",
-    "branch":      "lollipop-caf"
   }
 ]
