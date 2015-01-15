@@ -10,11 +10,6 @@
     "branch":      "lollipop-caf"
   },
   {
-    "repository":  "DirtyUnicorns/device_lge_d850",
-    "target_path": "device/lge/d850",
-    "branch":      "lollipop-caf"
-  },
-  {
     "repository":  "DirtyUnicorns/android_device_qcom-common",
     "target_path": "device/qcom/common",
     "branch":      "lollipop-caf"
