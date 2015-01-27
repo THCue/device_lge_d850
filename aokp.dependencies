@@ -5,9 +5,9 @@
     "branch":      "lollipop-caf"
   },
   {
-    "repository":  "tectas/android_kernel_lge_msm8974ac",
+    "repository":  "THCue/android_kernel_lge_g3",
     "target_path": "kernel/lge/g3",
-    "branch":      "rin-cm-12.0"
+    "branch":      "lollipop-caf"
   },
   {
     "repository":  "THCue/android_device_qcom-common",
